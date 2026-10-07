@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.wrangler/
+PROJECT_CONTEXT.txt
+migrate-mainstreamnails.sh
+*.php
