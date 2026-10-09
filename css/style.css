@@ -2959,6 +2959,9 @@ a.logo:hover{
 .team-item-image img{
     opacity: .75;
     width: 100%;
+    height: 380px;
+    object-fit: cover;
+    object-position: top;
     overflow: hidden;
 
 }
